@@ -11,7 +11,7 @@ string_::string_(int length)
 	this->lenght = length;
 
 }
-//êîíñòğóêòîğ, ñîçäàşùèé ñòğîêó íà îñíîâå str
+//ĞºĞ¾Ğ½ÑÑ‚Ñ€ÑƒĞºÑ‚Ğ¾Ñ€, ÑĞ¾Ğ·Ğ´Ğ°ÑÑ‰Ğ¸Ğ¹ ÑÑ‚Ñ€Ğ¾ĞºÑƒ Ğ½Ğ° Ğ¾ÑĞ½Ğ¾Ğ²Ğµ str
 string_::string_(const char * str)
 {
 	this->str = new char[strlen(str) + 1];
