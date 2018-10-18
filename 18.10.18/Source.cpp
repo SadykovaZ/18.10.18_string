@@ -1,4 +1,4 @@
-//перегрузка операторов
+//РїРµСЂРµРіСЂСѓР·РєР° РѕРїРµСЂР°С‚РѕСЂРѕРІ
 #include"string_.h"
 #include<iostream>
 #include<string>
