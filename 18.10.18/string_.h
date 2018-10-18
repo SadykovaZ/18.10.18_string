@@ -14,7 +14,7 @@ public:
 	string_(const char* str);
 	string_(const string_&obj);
 	void print();
-	//ввод строки с клавиатуры
+	//РІРІРѕРґ СЃС‚СЂРѕРєРё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹
 	void input();
 	void insert(int position, const char*str);
 	int getLength();
